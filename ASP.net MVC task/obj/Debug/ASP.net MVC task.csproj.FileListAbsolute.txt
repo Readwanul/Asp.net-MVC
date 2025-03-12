@@ -1,0 +1,158 @@
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\ASP.net MVC task.dll.config
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\ASP.net MVC task.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\ASP.net MVC task.pdb
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.WebPages.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\WebGrease.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.WebPages.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\ASP.net MVC task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\ASP.net MVC task\obj\Debug\ASP.net MVC task.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ASP.net MVC task\obj\Debug\ASP.net MVC task.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ASP.net MVC task\obj\Debug\ASP.net .7BEF6067.Up2Date
+C:\Users\Dell\source\repos\ASP.net MVC task\obj\Debug\ASP.net MVC task.dll
+C:\Users\Dell\source\repos\ASP.net MVC task\obj\Debug\ASP.net MVC task.pdb
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\ASP.net MVC task.dll.config
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\ASP.net MVC task.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\ASP.net MVC task.pdb
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\csc.exe
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\csc.exe.config
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\csc.rsp
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\csi.exe
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\csi.exe.config
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\csi.rsp
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.AppContext.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Collections.Immutable.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Console.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Globalization.Calendars.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.IO.Compression.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.IO.FileSystem.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Net.Http.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Net.Sockets.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Reflection.Metadata.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.ValueTuple.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Xml.XPath.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\vbc.exe
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\vbc.exe.config
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\vbc.rsp
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\VBCSCompiler.exe
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\roslyn\VBCSCompiler.exe.config
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\Antlr3.Runtime.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\Microsoft.Web.Infrastructure.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\Newtonsoft.Json.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.Helpers.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.Mvc.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.Optimization.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.Razor.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.WebPages.Deployment.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.WebPages.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.WebPages.Razor.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\WebGrease.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.Helpers.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.Mvc.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.Optimization.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.Razor.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.WebPages.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.WebPages.Deployment.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\System.Web.WebPages.Razor.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\Newtonsoft.Json.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\Antlr3.Runtime.pdb
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\obj\Debug\ASP.net MVC task.csproj.AssemblyReference.cache
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\obj\Debug\ASP.net MVC task.csproj.CoreCompileInputs.cache
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\obj\Debug\ASP.net .7BEF6067.Up2Date
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\obj\Debug\ASP.net MVC task.dll
+D:\Readwan\11th semester\.net\MVC\ASP.net MVC task\obj\Debug\ASP.net MVC task.pdb

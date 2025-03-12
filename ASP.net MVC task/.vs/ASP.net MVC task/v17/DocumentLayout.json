@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D70A31-B120-41A5-B610-28DD267D594F}|ASP.net MVC task.csproj|D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Controllers\\ProfileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D70A31-B120-41A5-B610-28DD267D594F}|ASP.net MVC task.csproj|solutionrelative:Controllers\\ProfileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D70A31-B120-41A5-B610-28DD267D594F}|ASP.net MVC task.csproj|d:\\readwan\\11th semester\\.net\\mvc\\asp.net mvc task\\views\\shared\\_layoutprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D70A31-B120-41A5-B610-28DD267D594F}|ASP.net MVC task.csproj|solutionrelative:views\\shared\\_layoutprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D70A31-B120-41A5-B610-28DD267D594F}|ASP.net MVC task.csproj|D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Views\\Profile\\Ref.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D70A31-B120-41A5-B610-28DD267D594F}|ASP.net MVC task.csproj|solutionrelative:Views\\Profile\\Ref.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D70A31-B120-41A5-B610-28DD267D594F}|ASP.net MVC task.csproj|D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Views\\Profile\\Projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D70A31-B120-41A5-B610-28DD267D594F}|ASP.net MVC task.csproj|solutionrelative:Views\\Profile\\Projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ref.cshtml",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Views\\Profile\\Ref.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Ref.cshtml",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Views\\Profile\\Ref.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Ref.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:19:24.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Views\\Profile\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Projects.cshtml",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Views\\Profile\\Projects.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:18:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutProfile.cshtml",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Views\\Shared\\_LayoutProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutProfile.cshtml",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Views\\Shared\\_LayoutProfile.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:07:54.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\ASP.net MVC task\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:05:46.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
