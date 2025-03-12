@@ -4,5 +4,22 @@
     Layout = "~/Views/Shared/_LayoutProfile.cshtml";
 }
 
-<h2>Projects</h2>
+<h2>University Projects</h2>
+<table class="table table-striped">
+    <tr>
+        <th>Title</th>
+        <th>Course</th>
+        <th>Semester</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.Course</td>
+            <td>@item.Semester</td>
+        </tr>
+    }
+
+</table>
 

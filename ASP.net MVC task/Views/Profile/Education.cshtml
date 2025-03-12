@@ -1,8 +1,24 @@
 ﻿
 @{
-    ViewBag.Title = "Education";
+    ViewBag.Title = "Projects";
     Layout = "~/Views/Shared/_LayoutProfile.cshtml";
 }
 
-<h2>Education</h2>
+<table class="table table-striped">
+    <tr>
+        <th>Level</th>
+        <th>Institution</th>
+        <th>Years</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Level</td>
+            <td>@item.Institution</td>
+            <td>@item.Years</td>
+        </tr>
+    }
+
+</table>
 
