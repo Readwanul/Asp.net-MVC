@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutStudent.cshtml";
+}
+
+<div>
+    <h4>Name:@Model.Name</h4>
+    <h4>Id:@Model.Id</h4>
+    <h4>E:@Model.Email</h4>
+    <h4>Name:@Model.DateOfBirth</h4>
+    <form>
+        <div class="m-3">Name: <input class="form-control" id="Name" type="text" placeholder="Name" /></div>
+        <div class="m-3">Id: <input class=" form-control" id="Id" type="text" placeholder="Id" /></div>
+        <div class="m-3">Date of Birth:<input class="form-control" id="DateOfBirth" type="date" /></div>
+        <div class="m-3">Email: <input class="form-control" id="Email" type="text" placeholder="Email" /></div>
+        <input class="btn-secondary" type="submit" value="Add" />
+    </form>
+</div>
+
