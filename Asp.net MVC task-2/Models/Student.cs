@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Asp.net_MVC_task_2.Validation;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -11,16 +12,26 @@ namespace Asp.net_MVC_task_2.Models
 	{
 		[Required]
 		[RegularExpression(@"^\d{2}-\d{5}-\d",ErrorMessage = "Id must be in the format: **-*****-*")]
-		public int Id { get; set; }
+		public string Id { get; set; }
+
+
 		[Required]
 		[MaxLength(30)]
 		public string Name { get; set; }
+
+
 		[Required]
 		[RegularExpression(@"^\d{2}-\d{5}-\d@student.aiub.edu$",
-            ErrorMessage = "Email must be in the format: **-*****-*@student.aiub.edu")]
+           ErrorMessage = "Email must be in the format: **-*****-*@student.aiub.edu")]
 		public string Email { get; set; }
+
+
 		[Required]
-		[DataType(DataType.Date)]
+		[studentvalidation]
 		public string DateOfBirth { get; set; }
-	}
+
+
+		[Required]
+        public string Gender { get; set; }
+    }
 }

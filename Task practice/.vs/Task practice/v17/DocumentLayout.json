@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|d:\\readwan\\11th semester\\.net\\mvc\\task practice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|d:\\readwan\\11th semester\\.net\\mvc\\task practice\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|solutionrelative:views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|d:\\readwan\\11th semester\\.net\\mvc\\task practice\\ef\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|solutionrelative:ef\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|d:\\readwan\\11th semester\\.net\\mvc\\task practice\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|d:\\readwan\\11th semester\\.net\\mvc\\task practice\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|d:\\readwan\\11th semester\\.net\\mvc\\task practice\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|d:\\readwan\\11th semester\\.net\\mvc\\task practice\\ef\\student.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC9A9A-33AA-4AE6-ADC8-357F026E7D86}|Task practice.csproj|solutionrelative:ef\\student.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T21:46:56.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T21:20:52.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:44:26.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:24:54.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.Context.cs",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\EF\\Student.Context.cs",
+              "RelativeDocumentMoniker": "EF\\Student.Context.cs",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\EF\\Student.Context.cs",
+              "RelativeToolTip": "EF\\Student.Context.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:21:15.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\EF\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "EF\\StudentInfo.cs",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\EF\\StudentInfo.cs",
+              "RelativeToolTip": "EF\\StudentInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:18:22.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Readwan\\11th semester\\.net\\MVC\\Task practice\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwDgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:13:25.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

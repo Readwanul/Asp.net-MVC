@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@{
+    if (TempData["message"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["message"]
+        </div>
+    }
+}
+
+
+    <h2 class="fw-bold">AllStudents</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>DateOfBirth</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var S in Model)
+        {
+            <tr>
+                <td>@S.Id</td>
+                <td>@S.Name</td>
+                <td>@S.Email</td>
+                <td>@S.DateOfBirth.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Student", new { id = S.Id })" class="btn btn-primary">Edit</a>
+                    <a href="@Url.Action("Delete", "Student", new { id = S.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+

@@ -77,3 +77,37 @@ D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\obj\Debug\Asp.net MVC task-
 D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\obj\Debug\Asp.net .9ADDE7CF.Up2Date
 D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\obj\Debug\Asp.net MVC task-2.dll
 D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\obj\Debug\Asp.net MVC task-2.pdb
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\EntityFramework.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\EntityFramework.SqlServer.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Common.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Configuration.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Frameworks.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Packaging.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Versioning.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Buffers.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Collections.Immutable.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Memory.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Numerics.Vectors.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Text.Encodings.Web.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Text.Json.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Threading.Tasks.Extensions.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.ValueTuple.dll
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\EntityFramework.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\EntityFramework.SqlServer.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Common.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Configuration.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Frameworks.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Packaging.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\NuGet.Versioning.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Buffers.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Collections.Immutable.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Memory.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Numerics.Vectors.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Text.Encodings.Web.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Text.Json.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.Threading.Tasks.Extensions.xml
+D:\Readwan\11th semester\.net\MVC\Asp.net MVC task-2\bin\System.ValueTuple.xml

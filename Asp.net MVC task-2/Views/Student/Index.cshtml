@@ -4,16 +4,29 @@
     Layout = "~/Views/Shared/_LayoutStudent.cshtml";
 }
 
+@{ 
+    bool getGender(string gender)
+    {
+
+    }
+}
+
+
 <div>
-    <h4>Name:@Model.Name</h4>
-    <h4>Id:@Model.Id</h4>
-    <h4>E:@Model.Email</h4>
-    <h4>Name:@Model.DateOfBirth</h4>
-    <form>
-        <div class="m-3">Name: <input class="form-control" id="Name" type="text" placeholder="Name" /></div>
-        <div class="m-3">Id: <input class=" form-control" id="Id" type="text" placeholder="Id" /></div>
-        <div class="m-3">Date of Birth:<input class="form-control" id="DateOfBirth" type="date" /></div>
-        <div class="m-3">Email: <input class="form-control" id="Email" type="text" placeholder="Email" /></div>
+    <h4>Name: @Model.Name</h4>
+    <h4>Id: @Model.Id</h4>
+    <h4>Email: @Model.Email</h4>
+    <h4>Name: @Model.DateOfBirth</h4>
+    <form method="post">
+        <p>@Html.ValidationMessage("Name")</p>
+        <div class="m-3">Name: <input class="form-control" value="@Model.Name" name="Name" type="text" placeholder="Name" /></div>
+        <p>@Html.ValidationMessage("Id")</p>
+        <div class="m-3">Id: <input class=" form-control" value="@Model.Id" name="Id" type="text" placeholder="Id" /></div>
+        <p>@Html.ValidationMessage("DateOfBirth")</p>
+        <div class="m-3">Date of Birth:<input class="form-control" value="@Model.DateOfBirth" name="DateOfBirth" type="date" /></div>
+        <p>@Html.ValidationMessage("Email")</p>
+        <div class="m-3">Email: <input class="form-control" value="@Model.Email" name="Email" type="text" placeholder="Email" /></div>
+        <div class="m-3">Email: <input class="form-control" value="@Model.Email" name="Email" type="text" placeholder="Email" /></div>
         <input class="btn-secondary" type="submit" value="Add" />
     </form>
 </div>
